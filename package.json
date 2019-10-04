@@ -107,7 +107,7 @@
     "walk": "^2.3.14",
     "web-push": "^3.3.3",
     "websequencediagrams": "1.0.0",
-    "snyk": "^1.163.3"
+    "snyk": "^1.230.5"
   },
   "jest": {
     "collectCoverageFrom": [
