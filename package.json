@@ -105,7 +105,7 @@
     "underscore": "^1.9.1",
     "uuid": "^3.3.2",
     "walk": "^2.3.14",
-    "web-push": "^3.3.3",
+    "web-push": "^3.4.1",
     "websequencediagrams": "1.0.0",
     "snyk": "^1.163.3"
   },
