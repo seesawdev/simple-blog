@@ -90,7 +90,7 @@
     "jsonwebtoken": "^8.5.1",
     "lynx": "^0.2.0",
     "marked": "^0.6.2",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.0",
     "moment": "^2.24.0",
     "mongoose": "^5.4.20",
     "morgan": "^1.9.1",
