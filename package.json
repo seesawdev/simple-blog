@@ -92,7 +92,7 @@
     "marked": "^0.6.2",
     "mkdirp": "^0.5.1",
     "moment": "^2.24.0",
-    "mongoose": "^5.4.20",
+    "mongoose": "^5.11.7",
     "morgan": "^1.9.1",
     "natural": "^0.6.3",
     "node-dogstatsd": "0.0.7",
