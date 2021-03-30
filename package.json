@@ -102,7 +102,7 @@
     "strftime": "^0.10.0",
     "striptags": "^3.1.1",
     "swig": "^1.4.2",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "uuid": "^3.3.2",
     "walk": "^2.3.14",
     "web-push": "^3.3.3",
