@@ -100,7 +100,7 @@
     "sendgrid": "^5.2.3",
     "stopword": "^0.2.4",
     "strftime": "^0.10.0",
-    "striptags": "^3.1.1",
+    "striptags": "^3.2.0",
     "swig": "^1.4.2",
     "underscore": "^1.9.1",
     "uuid": "^3.3.2",
