@@ -94,7 +94,7 @@
     "moment": "^2.24.0",
     "mongoose": "^5.4.20",
     "morgan": "^1.9.1",
-    "natural": "^0.6.3",
+    "natural": "^5.1.11",
     "node-dogstatsd": "0.0.7",
     "rest": "^2.0.0",
     "sendgrid": "^5.2.3",
