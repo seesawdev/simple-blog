@@ -106,7 +106,7 @@
     "uuid": "^3.3.2",
     "walk": "^2.3.14",
     "web-push": "^3.3.3",
-    "websequencediagrams": "1.0.0",
+    "websequencediagrams": "5.0.0",
     "snyk": "^1.163.3"
   },
   "jest": {
